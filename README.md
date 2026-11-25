@@ -95,17 +95,17 @@ These observations describe the supplied dataset. They do not establish causatio
 
 ## Files and project evidence
 
-- **Excel workbook:** contains raw and cleaned worksheets, aggregation outputs, summary analysis and PivotTables.
-- **Power BI report:** interactive report source file (.pbix).
-- **Capstone brief:** the original business case, detailed questions, dashboard requirements and final deliverables.
+- **[Download the Excel project workbook](https://github.com/Olusholaruth/Swiftroute-logistics-performance-analysis/releases/download/v1/EXCEL.SWIFTROUTE.LOGISTICS.PROJECT.UPTIMIZED.2.zip)** — uploaded as a ZIP asset in [Release v1](https://github.com/Olusholaruth/Swiftroute-logistics-performance-analysis/releases/tag/v1).
+- **Power BI report:** the interactive report source file (.pbix) is not yet listed in the repository.
+- **Capstone brief:** the original business case, detailed questions, dashboard requirements and final deliverables are documented in the project files.
 
-The source files and dashboard preview images will be added to their respective folders. Raw data should only be published where its licensing and sharing permissions allow it; otherwise, use a documented sample or a redacted version.
+Raw data should only be published where its licensing and sharing permissions allow it; otherwise, use a documented sample or a redacted version.
 
 ## How to review the project
 
 1. Read the business questions and KPI definitions in `Documentation/`.
-2. Review the Excel workbook to trace the calculations to the prepared data.
-3. Open the Power BI `.pbix` file in Power BI Desktop to explore the interactive report.
+2. Download the Excel ZIP from Release v1 and review the workbook's formulas, PivotTables and source data.
+3. Open the Power BI `.pbix` file in Power BI Desktop when it is added to the repository.
 4. Review the documented insights and their limitations.
 
 ## Author
